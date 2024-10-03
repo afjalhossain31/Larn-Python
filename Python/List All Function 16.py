@@ -59,3 +59,8 @@ print(letters)
 numbers = [1, 2, 3, 4, 5, 64, 34, 234]
 max_value = max(numbers)
 print(max_value)
+
+# 13. min() function
+numbers = [1, 2, 3, 4]
+min_value = min(numbers)
+print(min_value)
