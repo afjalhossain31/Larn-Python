@@ -64,3 +64,13 @@ print(max_value)
 numbers = [1, 2, 3, 4]
 min_value = min(numbers)
 print(min_value)
+
+# 14. sum() function
+numbers = [1, 2, 3, 4]
+total = sum(numbers)
+print(total)
+
+# 15. enumerate() function - the index and value of each item.
+fruits = ["apple", "banana", "cherry"]
+for index, fruit in enumerate(fruits):
+    print(index, fruit)
