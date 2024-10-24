@@ -12,3 +12,5 @@ print("First item:", my_list[0])
 first_item = next(iter(my_set))
 
 print("First item using iter():", first_item)
+
+# abdullah al afjal
